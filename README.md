@@ -1,0 +1,1 @@
+This project is called "Recipes" and involves setting up a website with several webpages detailing some of my favourite food dishes as well as how to cook them (ingredients, steps etc.)
